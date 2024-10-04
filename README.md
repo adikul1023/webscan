@@ -62,6 +62,7 @@ python3 webscan.py xyz.com
 ```
 **OR**
 
+```
 git clone https://github.com/adikul1023/webscan.git 
 cd /webscan
 python3 -m pip install .
